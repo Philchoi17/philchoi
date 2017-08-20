@@ -1,7 +1,7 @@
 * { padding: 0; margin: 0; }
 
-::-moz-selection { background: #eee; color: antiquewhite; }
-::selection { background: #eee; color: #666; }
+::-moz-selection { background: whitesmoke; color: antiquewhite; }
+::selection { background: darkslategrey; color: antiquewhite; }
 
 body {
   font-family: helvetica;
