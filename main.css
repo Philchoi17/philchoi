@@ -8,6 +8,7 @@ body {
   width: 60%;
   margin: 100px auto;
   color: #444;
+  background-color: red;
 }
 
 li {
@@ -20,7 +21,7 @@ li {
 a {
   text-decoration: none;
   color: #444;
-}  
+}
 
 header {
   display: flex;
@@ -161,7 +162,7 @@ aside a:hover {
   #title {
     flex: 100%;
   }
-  
+
   header h1 {
     font-size: 40px;
   }
@@ -169,14 +170,14 @@ aside a:hover {
   h3 {
     text-align: center;
     padding-left: 0;
-  }    
+  }
 
   #contact {
     display: flex;
     flex-wrap: wrap;
     padding: 20px 0 0 0;
   }
-  
+
   #contact p {
     display: block;
     width: 100%;
